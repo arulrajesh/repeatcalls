@@ -1,2 +1,2 @@
 # Repeat Calls
-Repeat Call calculator for Excel
+Macro workbook for Repeat Call calculator for Excel
