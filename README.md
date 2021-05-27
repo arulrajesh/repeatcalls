@@ -8,7 +8,6 @@ Download the workbook and follow the instructions in the workbook.
 1. Double click the cell for a file open dialog box. You can click this box even if the file is already open, this will populate the dropdown cells below to reflect all the sheets in the workbook. If the file is not Already Open the file will be opened and the dropdown list will be populated in cell B2.
 ![step 1](https://github.com/arulrajesh/repeatcalls/blob/dev/images/Capture1.PNG)
 1. Select the file and click open. *I am selecting "Book1" for the purpose of this demo, your filename might be different.* The cell "B2" will be updated with a dropdown menu which can be used to select the sheet which has relevant data.
-
 ![step 2](https://github.com/arulrajesh/repeatcalls/blob/dev/images/capture4.png)
   *This is what the sample data looks like in Book1.xlsx*
   ![step 2a](https://github.com/arulrajesh/repeatcalls/blob/dev/images/capture7.png)
