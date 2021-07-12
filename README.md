@@ -13,8 +13,8 @@ Download the workbook and follow the instructions in the workbook.
   ![step 2a](https://github.com/arulrajesh/repeatcalls/blob/dev/images/capture7.png)
 1. Once the SheetName is selected, the dropdown menus in cell B3 and B4 will updated for the UniqueID and DateTime.
 ![step 3](https://github.com/arulrajesh/repeatcalls/blob/dev/images/capture3.png)
-1. Select Unique ID.
-1. Select DateTime.
+1. Select the field from the dropdown list, which represents the "Unique ID" for each call.
+1. Select the DateTime field from the dropdown list, based on which the repeat calls will be calculated.
 1. The Repeat Buckets can be entered as numbers seperated by commas eg: 1,3,5,7.
    1. Paste Values for formulas does exactly what the name suggests. Default is to leave it as TRUE for faster processing. Click on "Double click to calculate repeat calls"
 ![step 4](https://github.com/arulrajesh/repeatcalls/blob/dev/images/capture6.png)
